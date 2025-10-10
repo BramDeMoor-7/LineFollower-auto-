@@ -3,7 +3,7 @@
 
 |volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|
 |----------|----|------------|-----------|---------|------|---------|
-|         1|Micro Metal Gearmotor|            |           |              |      |         |
+|1|Micro Metal Gearmotor|            |           |              |      |         |
 |         2|    |            |           |              |      |         |
 |         3|    |            |           |              |      |         |
 |         4|    |            |           |              |      |         |
