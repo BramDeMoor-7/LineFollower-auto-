@@ -8,3 +8,5 @@
 |3|HC-05|Bluetooth module|1(Nieuw) en 1(recup)|€2.99|2|€5.98|
 |4|DRV8833 Motor Drive Module|Dual H brug voor de motoren|Nieuw|€0.86|10|€0.86|
 |5|ATmega32U4|Arduino leonardo|recup|€25.40|1|€25.40|
+|6|Wielen|Wielen voor mee te rijden|recup||2||
+|6|Wielen|Wielen voor mee te rijden|recup||2||
