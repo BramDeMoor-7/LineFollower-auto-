@@ -10,6 +10,6 @@
 |5|ATmega32U4|Arduino leonardo|recup|€25.40|1|€25.40|
 |6|Wielen|Wielen voor mee te rijden|recup|€0|2|€0|
 |7|Kabels|Bekabeling|recup en nieuw|€2.49|120|€2.49|
-|8|PCB Board Prototype Board Zwart Dubbelzijdig Printplaten 8x12CM 1.2MM|plaat waar alles op gesoldeerd is|niew|€3.94|5|€3.94|
+|8|PCB Board Prototype Board Zwart Dubbelzijdig Printplaten 8x12CM 1.2MM|plaat waar alles op gesoldeerd is|nieuw|€3.94|5|€3.94|
 |9|Motor frame|frame voor motor te bevestingen|nieuw(3D geprint)|€|2|€|
 |10|wago klemmen|voor kabelverbindingen|recup|€0|2|€0|
