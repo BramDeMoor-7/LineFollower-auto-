@@ -13,3 +13,4 @@
 |8|PCB Board Prototype Board Zwart Dubbelzijdig Printplaten 8x12CM 1.2MM|plaat waar alles op gesoldeerd is|nieuw|€3.94|5|€3.94|
 |9|Motor frame|frame voor motor te bevestingen|nieuw(3D geprint)|€|2|€|
 |10|wago klemmen|voor kabelverbindingen|recup|€0|2|€0|
+|11|batterijen|9V duracell|nieuw|€3.99|4|€15.96|
