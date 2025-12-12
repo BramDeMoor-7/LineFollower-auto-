@@ -14,3 +14,4 @@
 |9|Motor frame|frame voor motor te bevestingen|nieuw(3D geprint)|€|2|€|
 |10|wago klemmen|voor kabelverbindingen|recup|€0|2|€0|
 |11|batterijen|9V duracell|nieuw|€3.99|4|€15.96|
+|12|Totaal|totale prijs project|||
