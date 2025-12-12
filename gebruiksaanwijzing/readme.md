@@ -20,10 +20,8 @@ calibrate black
 calibrate white  
 
 ### kalibratie
-uitleg kalibratie  
+Er moet worden gekalibreerd omdat er een verschil is tussen de verschillende sensoren, door een tolerantie op de onderdelen, wat eigen is aan productie. Positioneer de sensoren boven een zwart vlak en voer het commando calibrate black uit in de Terminal. Breng vervolgens de sensoren boven een wit vlak en voer het commando calibrate white uit. De sensoren zijn nu gekalibreerd.  
 
 ### settings
 De robot rijdt stabiel met volgende parameters:  
 
-### start/stop button
-uitleg locatie + werking start/stop button
